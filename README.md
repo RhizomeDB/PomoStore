@@ -7,6 +7,7 @@
 
 ## Authors
 
+* [Philipp Krüger], [Fission Codes]
 - [Quinn Wilton], [Fission Codes]
 - [Brooklyn Zelenka], [Fission Codes]
 
@@ -26,3 +27,10 @@ TODO
 # 1. Introduction
 
 TODO
+
+<!-- Links -->
+
+[Brooklyn Zelenka]: https://github.com/expede
+[Fission Codes]: https://fission.codes
+[Philipp Krüger]: https://github.com/matheus23
+[Quinn Wilton]: https://github.com/QuinnWilton
